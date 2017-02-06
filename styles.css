@@ -27,14 +27,13 @@ tr:nth-child(2){
     border-spacing: 50px;
 }
 td{
-    width: 65px;
-    height: 85px;
-    border: 1px solid yellow;
-    opacity: 0.2;
+    width: 70px;
+    height: 90px;
+    border: 0.1px solid yellow;
 }
 
 #board{
-    margin-top: 80px;
+    margin: 0 auto;
     width: 350px;
     height: 290px;
     overflow-y: scroll;
